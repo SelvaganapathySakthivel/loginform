@@ -26,4 +26,4 @@ res.write('</form>')
 return res.end()
 }
 }).listen(3002)
- console.log('server runing good')
+ console.log('server runing')
